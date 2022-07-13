@@ -26,3 +26,5 @@ complementary gifts to functionaries or VIPs.
 9. Querying the percentage of seats booked, amount collected on each 
 class for any show, amount collected by each sales person by show 
 manager. 
+
+
