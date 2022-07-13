@@ -1,5 +1,16 @@
 # SAMS
 # Build a Student Auditorium Management System using C++ and OOP's concepts.
+Product Perspective : 
+The SAMS is designed to replace the manually driven school’s auditorium 
+management system and introduce automation and efficiency. The SAMS will 
+enable the Show Manager to manage and enlist the social and cultural events conducted in 
+auditorium and their details, Fix the prices of the ordinary and balcony seat for 
+booking and assign seats to functionaries, VIPs as complementary gift. The 
+spectators can book their ticket from authorized Sales Person and get their tickets printed 
+with details. The Sales Person can login in to SAMS and all their transactions are recorded. 
+The spectators and Show Manager can query details regarding show timing, booking and 
+payment status respectively. 
+
 The Students’ Auditorium Management Software (SAMS) consists of the following 
 major functions: 
 1. Release and maintaining the information of various shows conducted in 
